@@ -1,7 +1,10 @@
 __pycache__/
 /CalibrationSnapShot/CameraMatrix/*
+!/CalibrationSnapShot/CameraMatrix/readme.txt
 /CalibrationSnapShot/PerspectiveTransform/*
+!/CalibrationSnapShot/PerspectiveTransform/readme.txt
 /Datasets/*
+!/Datasets/test_kmeans.py
 /VideoCapture/*
-
+!/VideoCapture/readme.txt
 
